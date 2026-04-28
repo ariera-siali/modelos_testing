@@ -55,6 +55,12 @@ Después de la categoría, debe haber una `/` seguida de la referencia del probl
 **3. Descripción:**
 Después de la referencia, debe haber otra `/` seguida de una descripción que resuma el propósito de esta rama específica. Esta descripción debe ser corta y estar escrita en `kebab-case`. Simplemente reemplaza cualquier carácter especial o espacio por un `-`.
 
+## 📋 Requisitos de Licencia
+Se priorizarán modelos con licencias **Apache 2.0** o **MIT** para asegurar la viabilidad comercial del proyecto sin costes de licenciamiento.
+
+---
+*Este proyecto es parte de un ejercicio de evaluación técnica para el equipo de desarrollo de Siali.*
+
 **Ejemplos:**
 ```bash
 # Si necesita agregar, refactorizar o eliminar una característica:
@@ -68,9 +74,3 @@ git branch hotfix/no-ref/registration-form-not-working
 
 # Si necesita experimentar fuera de un problema/ticket:
 git branch test/no-ref/refactor-components-with-atomic-design
-
-## 📋 Requisitos de Licencia
-Se priorizarán modelos con licencias **Apache 2.0** o **MIT** para asegurar la viabilidad comercial del proyecto sin costes de licenciamiento.
-
----
-*Este proyecto es parte de un ejercicio de evaluación técnica para el equipo de desarrollo de Siali.*
