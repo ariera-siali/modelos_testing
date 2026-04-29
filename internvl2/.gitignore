@@ -1,0 +1,17 @@
+# --- Resultados ---
+results/*
+!results/.gitkeep
+
+# --- Datos e Imágenes ---
+data/images/*
+!data/images/.gitkeep
+data/images/Untitled
+
+# --- Python & Sistema ---
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# --- Modelos ---
+model_cache/
