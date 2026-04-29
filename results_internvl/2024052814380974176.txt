@@ -1,0 +1,5 @@
+In the image, there are workers wearing safety vests. The other categories do not apply to the workers in the image:
+
+- Forklifts: There are no forklifts visible in the image.
+- Workers wearing helmets: Both workers are wearing yellow hard hats.
+- Workers wearing safety vests: Both workers are wearing safety vests.

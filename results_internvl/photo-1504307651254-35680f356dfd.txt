@@ -1,0 +1,5 @@
+In the image, there are workers wearing safety vests. The other categories do not apply to the visible elements in the image:
+
+- Forklifts: There are no forklifts visible in the image.
+- Workers wearing helmets: There are no workers wearing helmets in the image.
+- Workers wearing safety vests: The workers are wearing orange safety vests.
