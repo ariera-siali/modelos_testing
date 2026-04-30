@@ -1,0 +1,26 @@
+{
+  "total_imagenes": 35,
+  "modelo": "OpenGVLab/InternVL2-8B",
+  "latencias_promedio_ms": {
+    "epi_casco": 758.3,
+    "epi_chaleco": 785.7,
+    "epi_chaleco_negro": 887.9,
+    "epi_cono": 736.1,
+    "epi_gorra_protectora": 858.5,
+    "epi_mascarilla": 798.5,
+    "epi_persona": 743.6,
+    "carretillas": 937.2,
+    "caidas": 772.8
+  },
+  "detecciones_agregadas": {
+    "casco": 45,
+    "chaleco": 30,
+    "chaleco_negro": 25,
+    "cono": 24,
+    "gorra_protectora": 39,
+    "mascarilla": 22,
+    "persona": 76,
+    "carretillas_detectadas": 9,
+    "persona_caida": 8
+  }
+}

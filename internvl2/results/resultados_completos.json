@@ -1,0 +1,2417 @@
+[
+  {
+    "imagen": "caida1.jpg",
+    "ruta": "/app/data/images/caida1.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 1}",
+        "respuesta_json": {
+          "casco": 1
+        },
+        "latencia_ms": 1140.7
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 739.6
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 1}",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 817.3
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 721.4
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 820.1
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 1}",
+        "respuesta_json": {
+          "mascarilla": 1
+        },
+        "latencia_ms": 786.8
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 719.9
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 816.9
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 761.6
+      }
+    }
+  },
+  {
+    "imagen": "caida2.jpg",
+    "ruta": "/app/data/images/caida2.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 719.3
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 756.6
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 0}",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 819.4
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 722.0
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 0}",
+        "respuesta_json": {
+          "gorra_protectora": 0
+        },
+        "latencia_ms": 822.9
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 786.2
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 723.1
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 818.3
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": true}",
+        "respuesta_json": {
+          "persona_caida": true
+        },
+        "latencia_ms": 762.4
+      }
+    }
+  },
+  {
+    "imagen": "caida3.jpg",
+    "ruta": "/app/data/images/caida3.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 723.9
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 758.9
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 1}",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 825.0
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 726.6
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 0}",
+        "respuesta_json": {
+          "gorra_protectora": 0
+        },
+        "latencia_ms": 824.6
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 788.8
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 0}",
+        "respuesta_json": {
+          "persona": 0
+        },
+        "latencia_ms": 727.1
+      },
+      "carretillas": {
+        "respuesta_raw": "There are no forklifts visible in this image. \n\n{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 1235.4
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": true}",
+        "respuesta_json": {
+          "persona_caida": true
+        },
+        "latencia_ms": 762.3
+      }
+    }
+  },
+  {
+    "imagen": "caida4.jpg",
+    "ruta": "/app/data/images/caida4.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 727.8
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 761.0
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 1}",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 826.3
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 1}",
+        "respuesta_json": {
+          "cono": 1
+        },
+        "latencia_ms": 727.4
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 829.4
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 792.4
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 729.7
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 826.0
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": true}",
+        "respuesta_json": {
+          "persona_caida": true
+        },
+        "latencia_ms": 767.2
+      }
+    }
+  },
+  {
+    "imagen": "caida5.jpg",
+    "ruta": "/app/data/images/caida5.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 731.4
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 1}",
+        "respuesta_json": {
+          "chaleco": 1
+        },
+        "latencia_ms": 763.3
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 1}",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 829.0
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 732.8
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 830.4
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 793.6
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 2}",
+        "respuesta_json": {
+          "persona": 2
+        },
+        "latencia_ms": 731.0
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 826.8
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": true}",
+        "respuesta_json": {
+          "persona_caida": true
+        },
+        "latencia_ms": 768.8
+      }
+    }
+  },
+  {
+    "imagen": "caida6.jpg",
+    "ruta": "/app/data/images/caida6.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 1}",
+        "respuesta_json": {
+          "casco": 1
+        },
+        "latencia_ms": 734.8
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 764.0
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 1}",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 830.6
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 733.1
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 831.8
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 794.3
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 732.6
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 827.2
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": true}",
+        "respuesta_json": {
+          "persona_caida": true
+        },
+        "latencia_ms": 770.5
+      }
+    }
+  },
+  {
+    "imagen": "caida7.jpg",
+    "ruta": "/app/data/images/caida7.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 734.6
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 767.5
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 0}",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 834.3
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 734.9
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 0}",
+        "respuesta_json": {
+          "gorra_protectora": 0
+        },
+        "latencia_ms": 835.1
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 797.6
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 2}",
+        "respuesta_json": {
+          "persona": 2
+        },
+        "latencia_ms": 731.5
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 830.4
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": true}",
+        "respuesta_json": {
+          "persona_caida": true
+        },
+        "latencia_ms": 771.3
+      }
+    }
+  },
+  {
+    "imagen": "caida8.jpg",
+    "ruta": "/app/data/images/caida8.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 735.4
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 767.6
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 0}",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 832.5
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 736.1
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 834.8
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 797.6
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 734.4
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 830.8
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": true}",
+        "respuesta_json": {
+          "persona_caida": true
+        },
+        "latencia_ms": 771.2
+      }
+    }
+  },
+  {
+    "imagen": "caida9.jpg",
+    "ruta": "/app/data/images/caida9.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 736.8
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 770.2
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 0}",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 834.8
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 735.0
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 837.0
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 799.4
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 735.9
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 831.7
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": true}",
+        "respuesta_json": {
+          "persona_caida": true
+        },
+        "latencia_ms": 772.6
+      }
+    }
+  },
+  {
+    "imagen": "carretilla1.jpg",
+    "ruta": "/app/data/images/carretilla1.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 1}",
+        "respuesta_json": {
+          "casco": 1
+        },
+        "latencia_ms": 736.8
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 1}",
+        "respuesta_json": {
+          "chaleco": 1
+        },
+        "latencia_ms": 770.7
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 0}",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 835.8
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 738.4
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 836.8
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 799.4
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 735.8
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 2}",
+        "respuesta_json": {
+          "carretillas_detectadas": 2
+        },
+        "latencia_ms": 835.6
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 774.4
+      }
+    }
+  },
+  {
+    "imagen": "carretilla2.jpg",
+    "ruta": "/app/data/images/carretilla2.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 724.4
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 761.6
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "```json\n{\"chaleco_negro\": 1}\n```",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 1020.6
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 726.8
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 827.4
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 787.3
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 2}",
+        "respuesta_json": {
+          "persona": 2
+        },
+        "latencia_ms": 727.3
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 2}",
+        "respuesta_json": {
+          "carretillas_detectadas": 2
+        },
+        "latencia_ms": 824.5
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 763.4
+      }
+    }
+  },
+  {
+    "imagen": "carretilla3.jpg",
+    "ruta": "/app/data/images/carretilla3.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 733.9
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 767.5
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "```json\n{\n  \"chaleco_negro\": 1\n}\n```",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 1127.5
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 732.4
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 834.5
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 797.7
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 0}",
+        "respuesta_json": {
+          "persona": 0
+        },
+        "latencia_ms": 733.5
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 2}",
+        "respuesta_json": {
+          "carretillas_detectadas": 2
+        },
+        "latencia_ms": 830.4
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 770.2
+      }
+    }
+  },
+  {
+    "imagen": "casco1.jpg",
+    "ruta": "/app/data/images/casco1.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 732.6
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 2}",
+        "respuesta_json": {
+          "chaleco": 2
+        },
+        "latencia_ms": 767.7
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 1}",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 835.8
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 1}",
+        "respuesta_json": {
+          "cono": 1
+        },
+        "latencia_ms": 737.4
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 835.1
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 796.7
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 2}",
+        "respuesta_json": {
+          "persona": 2
+        },
+        "latencia_ms": 733.8
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 1}",
+        "respuesta_json": {
+          "carretillas_detectadas": 1
+        },
+        "latencia_ms": 831.9
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 772.3
+      }
+    }
+  },
+  {
+    "imagen": "casco2.jpg",
+    "ruta": "/app/data/images/casco2.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 3}",
+        "respuesta_json": {
+          "casco": 3
+        },
+        "latencia_ms": 740.9
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 773.5
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "```json\n{\n  \"chaleco_negro\": 0\n}\n```",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 1129.2
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 741.4
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 3}",
+        "respuesta_json": {
+          "gorra_protectora": 3
+        },
+        "latencia_ms": 841.6
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 803.0
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 3}",
+        "respuesta_json": {
+          "persona": 3
+        },
+        "latencia_ms": 739.7
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 840.8
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 782.2
+      }
+    }
+  },
+  {
+    "imagen": "casco3.jpg",
+    "ruta": "/app/data/images/casco3.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 3}",
+        "respuesta_json": {
+          "casco": 3
+        },
+        "latencia_ms": 734.3
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 3}",
+        "respuesta_json": {
+          "chaleco": 3
+        },
+        "latencia_ms": 766.9
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 1}",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 834.0
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 737.1
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "```json\n{\"gorra_protectora\": 2}\n```",
+        "respuesta_json": {
+          "gorra_protectora": 2
+        },
+        "latencia_ms": 1031.2
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 795.8
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 3}",
+        "respuesta_json": {
+          "persona": 3
+        },
+        "latencia_ms": 733.1
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 832.6
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 776.2
+      }
+    }
+  },
+  {
+    "imagen": "chaleco1.jpg",
+    "ruta": "/app/data/images/chaleco1.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 3}",
+        "respuesta_json": {
+          "casco": 3
+        },
+        "latencia_ms": 739.7
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 3}",
+        "respuesta_json": {
+          "chaleco": 3
+        },
+        "latencia_ms": 771.6
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 0}",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 836.1
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 1}",
+        "respuesta_json": {
+          "cono": 1
+        },
+        "latencia_ms": 739.3
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 2}",
+        "respuesta_json": {
+          "gorra_protectora": 2
+        },
+        "latencia_ms": 838.4
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 2}",
+        "respuesta_json": {
+          "mascarilla": 2
+        },
+        "latencia_ms": 801.9
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 3}",
+        "respuesta_json": {
+          "persona": 3
+        },
+        "latencia_ms": 737.1
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 834.9
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 773.5
+      }
+    }
+  },
+  {
+    "imagen": "chaleco2.jpg",
+    "ruta": "/app/data/images/chaleco2.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 734.5
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 5}",
+        "respuesta_json": {
+          "chaleco": 5
+        },
+        "latencia_ms": 769.3
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 1}",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 833.8
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 736.3
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 0}",
+        "respuesta_json": {
+          "gorra_protectora": 0
+        },
+        "latencia_ms": 835.5
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 795.8
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 5}",
+        "respuesta_json": {
+          "persona": 5
+        },
+        "latencia_ms": 732.5
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 832.5
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 774.1
+      }
+    }
+  },
+  {
+    "imagen": "chaleco3.jpg",
+    "ruta": "/app/data/images/chaleco3.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 2}",
+        "respuesta_json": {
+          "casco": 2
+        },
+        "latencia_ms": 736.1
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 1}",
+        "respuesta_json": {
+          "chaleco": 1
+        },
+        "latencia_ms": 769.2
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 1}",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 833.5
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 733.8
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 835.0
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 1}",
+        "respuesta_json": {
+          "mascarilla": 1
+        },
+        "latencia_ms": 798.1
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 4}",
+        "respuesta_json": {
+          "persona": 4
+        },
+        "latencia_ms": 733.3
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 1}",
+        "respuesta_json": {
+          "carretillas_detectadas": 1
+        },
+        "latencia_ms": 832.1
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 772.3
+      }
+    }
+  },
+  {
+    "imagen": "chaleco4.jpg",
+    "ruta": "/app/data/images/chaleco4.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 1}",
+        "respuesta_json": {
+          "casco": 1
+        },
+        "latencia_ms": 735.3
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 1}",
+        "respuesta_json": {
+          "chaleco": 1
+        },
+        "latencia_ms": 769.5
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 1}",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 834.2
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 734.7
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 837.1
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 1}",
+        "respuesta_json": {
+          "mascarilla": 1
+        },
+        "latencia_ms": 799.2
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 734.0
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 831.1
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 771.0
+      }
+    }
+  },
+  {
+    "imagen": "chaleco_negro1.png",
+    "ruta": "/app/data/images/chaleco_negro1.png",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 7}",
+        "respuesta_json": {
+          "casco": 7
+        },
+        "latencia_ms": 740.8
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 5}",
+        "respuesta_json": {
+          "chaleco": 5
+        },
+        "latencia_ms": 773.5
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 3}",
+        "respuesta_json": {
+          "chaleco_negro": 3
+        },
+        "latencia_ms": 838.3
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 740.8
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 3}",
+        "respuesta_json": {
+          "gorra_protectora": 3
+        },
+        "latencia_ms": 840.0
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 3}",
+        "respuesta_json": {
+          "mascarilla": 3
+        },
+        "latencia_ms": 802.3
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 9}",
+        "respuesta_json": {
+          "persona": 9
+        },
+        "latencia_ms": 737.9
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 1}",
+        "respuesta_json": {
+          "carretillas_detectadas": 1
+        },
+        "latencia_ms": 837.4
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 777.6
+      }
+    }
+  },
+  {
+    "imagen": "chaleco_negro2.jpg",
+    "ruta": "/app/data/images/chaleco_negro2.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 4}",
+        "respuesta_json": {
+          "casco": 4
+        },
+        "latencia_ms": 744.3
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 3}",
+        "respuesta_json": {
+          "chaleco": 3
+        },
+        "latencia_ms": 776.7
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 2}",
+        "respuesta_json": {
+          "chaleco_negro": 2
+        },
+        "latencia_ms": 843.1
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 745.7
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "```json\n{\"gorra_protectora\": 3}\n```",
+        "respuesta_json": {
+          "gorra_protectora": 3
+        },
+        "latencia_ms": 1040.7
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 4}",
+        "respuesta_json": {
+          "mascarilla": 4
+        },
+        "latencia_ms": 805.8
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 4}",
+        "respuesta_json": {
+          "persona": 4
+        },
+        "latencia_ms": 741.7
+      },
+      "carretillas": {
+        "respuesta_raw": "There are no forklifts detected in this image. \n\n{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 1261.8
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 780.7
+      }
+    }
+  },
+  {
+    "imagen": "chaleco_negro3.png",
+    "ruta": "/app/data/images/chaleco_negro3.png",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 6}",
+        "respuesta_json": {
+          "casco": 6
+        },
+        "latencia_ms": 738.4
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 2}",
+        "respuesta_json": {
+          "chaleco": 2
+        },
+        "latencia_ms": 774.2
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 2}",
+        "respuesta_json": {
+          "chaleco_negro": 2
+        },
+        "latencia_ms": 841.3
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 740.5
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "```json\n{\"gorra_protectora\": 1}\n```",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 1036.4
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 802.3
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 8}",
+        "respuesta_json": {
+          "persona": 8
+        },
+        "latencia_ms": 736.7
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 838.4
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 778.2
+      }
+    }
+  },
+  {
+    "imagen": "cono1.png",
+    "ruta": "/app/data/images/cono1.png",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 2}",
+        "respuesta_json": {
+          "casco": 2
+        },
+        "latencia_ms": 743.2
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 777.2
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "```json\n{\"chaleco_negro\": 0}\n```",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 1037.7
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 2}",
+        "respuesta_json": {
+          "cono": 2
+        },
+        "latencia_ms": 744.4
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "```json\n{\"gorra_protectora\": 2}\n```",
+        "respuesta_json": {
+          "gorra_protectora": 2
+        },
+        "latencia_ms": 1041.4
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 808.6
+      },
+      "epi_persona": {
+        "respuesta_raw": "There are no people present in this image. \n\n{\"persona\": 0}",
+        "respuesta_json": {
+          "persona": 0
+        },
+        "latencia_ms": 1065.3
+      },
+      "carretillas": {
+        "respuesta_raw": "There are no forklifts detected in this image.\n\n{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 1227.6
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 780.4
+      }
+    }
+  },
+  {
+    "imagen": "cono2.jpg",
+    "ruta": "/app/data/images/cono2.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 725.5
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "There are no safety vests visible in the image. \n\n```json\n{\"chaleco\": 0}\n```",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 1345.5
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "```json\n{\"chaleco_negro\": 0}\n```",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 1022.4
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 7}",
+        "respuesta_json": {
+          "cono": 7
+        },
+        "latencia_ms": 724.5
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 0}",
+        "respuesta_json": {
+          "gorra_protectora": 0
+        },
+        "latencia_ms": 825.3
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 787.6
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 2}",
+        "respuesta_json": {
+          "persona": 2
+        },
+        "latencia_ms": 721.2
+      },
+      "carretillas": {
+        "respuesta_raw": "There are no forklifts in this image. \n\n{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 1217.0
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 758.4
+      }
+    }
+  },
+  {
+    "imagen": "cono3.jpg",
+    "ruta": "/app/data/images/cono3.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 6}",
+        "respuesta_json": {
+          "casco": 6
+        },
+        "latencia_ms": 724.7
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 756.3
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 1}",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 826.4
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 8}",
+        "respuesta_json": {
+          "cono": 8
+        },
+        "latencia_ms": 725.4
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 0}",
+        "respuesta_json": {
+          "gorra_protectora": 0
+        },
+        "latencia_ms": 826.0
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 785.5
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 722.4
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 821.2
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 759.5
+      }
+    }
+  },
+  {
+    "imagen": "gorra_protectora1.jpg",
+    "ruta": "/app/data/images/gorra_protectora1.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 2}",
+        "respuesta_json": {
+          "casco": 2
+        },
+        "latencia_ms": 743.6
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 778.8
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 2}",
+        "respuesta_json": {
+          "chaleco_negro": 2
+        },
+        "latencia_ms": 840.7
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 2}",
+        "respuesta_json": {
+          "cono": 2
+        },
+        "latencia_ms": 740.4
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 842.6
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 804.7
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 2}",
+        "respuesta_json": {
+          "persona": 2
+        },
+        "latencia_ms": 739.6
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 837.0
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 776.4
+      }
+    }
+  },
+  {
+    "imagen": "gorra_protectora2.jpg",
+    "ruta": "/app/data/images/gorra_protectora2.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 2}",
+        "respuesta_json": {
+          "casco": 2
+        },
+        "latencia_ms": 740.8
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 2}",
+        "respuesta_json": {
+          "chaleco": 2
+        },
+        "latencia_ms": 779.6
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 2}",
+        "respuesta_json": {
+          "chaleco_negro": 2
+        },
+        "latencia_ms": 840.1
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 2}",
+        "respuesta_json": {
+          "cono": 2
+        },
+        "latencia_ms": 739.1
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 2}",
+        "respuesta_json": {
+          "gorra_protectora": 2
+        },
+        "latencia_ms": 842.7
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 2}",
+        "respuesta_json": {
+          "mascarilla": 2
+        },
+        "latencia_ms": 806.2
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 2}",
+        "respuesta_json": {
+          "persona": 2
+        },
+        "latencia_ms": 739.7
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 837.3
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 776.8
+      }
+    }
+  },
+  {
+    "imagen": "gorra_protectora3.jpg",
+    "ruta": "/app/data/images/gorra_protectora3.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 1}",
+        "respuesta_json": {
+          "casco": 1
+        },
+        "latencia_ms": 739.8
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 1}",
+        "respuesta_json": {
+          "chaleco": 1
+        },
+        "latencia_ms": 774.5
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 1}",
+        "respuesta_json": {
+          "chaleco_negro": 1
+        },
+        "latencia_ms": 841.0
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 743.5
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 842.4
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 1}",
+        "respuesta_json": {
+          "mascarilla": 1
+        },
+        "latencia_ms": 803.7
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 740.4
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 837.5
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 778.9
+      }
+    }
+  },
+  {
+    "imagen": "mascarilla1.jpg",
+    "ruta": "/app/data/images/mascarilla1.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 738.9
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 772.8
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "```json\n{\"chaleco_negro\": 0}\n```",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 1035.1
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 738.4
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 840.5
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 2}",
+        "respuesta_json": {
+          "mascarilla": 2
+        },
+        "latencia_ms": 802.9
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 2}",
+        "respuesta_json": {
+          "persona": 2
+        },
+        "latencia_ms": 737.1
+      },
+      "carretillas": {
+        "respuesta_raw": "There are no forklifts visible in this image. \n\n{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 1258.7
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 775.2
+      }
+    }
+  },
+  {
+    "imagen": "mascarilla2.jpg",
+    "ruta": "/app/data/images/mascarilla2.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 741.3
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 776.6
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 0}",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 843.2
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 744.2
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 842.8
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 1}",
+        "respuesta_json": {
+          "mascarilla": 1
+        },
+        "latencia_ms": 804.6
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 740.3
+      },
+      "carretillas": {
+        "respuesta_raw": "There are no forklifts detected in this image. \n\n{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 1262.7
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 778.0
+      }
+    }
+  },
+  {
+    "imagen": "mascarilla3.jpg",
+    "ruta": "/app/data/images/mascarilla3.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 738.6
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 776.1
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "```json\n{\"chaleco_negro\": 0}\n```",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 1039.7
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 738.7
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 842.8
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 1}",
+        "respuesta_json": {
+          "mascarilla": 1
+        },
+        "latencia_ms": 805.1
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 740.5
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 837.0
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 777.9
+      }
+    }
+  },
+  {
+    "imagen": "mascarilla4.jpg",
+    "ruta": "/app/data/images/mascarilla4.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 737.1
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 772.8
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 0}",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 840.5
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 741.1
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 841.1
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 1}",
+        "respuesta_json": {
+          "mascarilla": 1
+        },
+        "latencia_ms": 803.5
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 737.8
+      },
+      "carretillas": {
+        "respuesta_raw": "There are no forklifts in this image. \n\n{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 1227.0
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 775.0
+      }
+    }
+  },
+  {
+    "imagen": "persona1.jpg",
+    "ruta": "/app/data/images/persona1.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 738.9
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 777.0
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "```json\n{\n  \"chaleco_negro\": 0\n}\n```",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 1133.9
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 742.9
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 841.1
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 0}",
+        "respuesta_json": {
+          "mascarilla": 0
+        },
+        "latencia_ms": 803.4
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 1}",
+        "respuesta_json": {
+          "persona": 1
+        },
+        "latencia_ms": 737.1
+      },
+      "carretillas": {
+        "respuesta_raw": "{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 838.3
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 779.5
+      }
+    }
+  },
+  {
+    "imagen": "persona2.jpg",
+    "ruta": "/app/data/images/persona2.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "There are no safety hard hats visible in this image. \n\n{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 1129.3
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 773.0
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 0}",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 839.5
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 741.8
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 842.7
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 1}",
+        "respuesta_json": {
+          "mascarilla": 1
+        },
+        "latencia_ms": 802.9
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 2}",
+        "respuesta_json": {
+          "persona": 2
+        },
+        "latencia_ms": 738.8
+      },
+      "carretillas": {
+        "respuesta_raw": "There are no forklifts detected in this image.\n\n{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 1230.4
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 775.0
+      }
+    }
+  },
+  {
+    "imagen": "persona3.jpg",
+    "ruta": "/app/data/images/persona3.jpg",
+    "resultados": {
+      "epi_casco": {
+        "respuesta_raw": "{\"casco\": 0}",
+        "respuesta_json": {
+          "casco": 0
+        },
+        "latencia_ms": 742.0
+      },
+      "epi_chaleco": {
+        "respuesta_raw": "{\"chaleco\": 0}",
+        "respuesta_json": {
+          "chaleco": 0
+        },
+        "latencia_ms": 779.6
+      },
+      "epi_chaleco_negro": {
+        "respuesta_raw": "{\"chaleco_negro\": 0}",
+        "respuesta_json": {
+          "chaleco_negro": 0
+        },
+        "latencia_ms": 843.4
+      },
+      "epi_cono": {
+        "respuesta_raw": "{\"cono\": 0}",
+        "respuesta_json": {
+          "cono": 0
+        },
+        "latencia_ms": 743.8
+      },
+      "epi_gorra_protectora": {
+        "respuesta_raw": "{\"gorra_protectora\": 1}",
+        "respuesta_json": {
+          "gorra_protectora": 1
+        },
+        "latencia_ms": 842.0
+      },
+      "epi_mascarilla": {
+        "respuesta_raw": "{\"mascarilla\": 1}",
+        "respuesta_json": {
+          "mascarilla": 1
+        },
+        "latencia_ms": 806.6
+      },
+      "epi_persona": {
+        "respuesta_raw": "{\"persona\": 5}",
+        "respuesta_json": {
+          "persona": 5
+        },
+        "latencia_ms": 745.0
+      },
+      "carretillas": {
+        "respuesta_raw": "There are no forklifts visible in this image. \n\n{\"carretillas_detectadas\": 0}",
+        "respuesta_json": {
+          "carretillas_detectadas": 0
+        },
+        "latencia_ms": 1263.7
+      },
+      "caidas": {
+        "respuesta_raw": "{\"persona_caida\": false}",
+        "respuesta_json": {
+          "persona_caida": false
+        },
+        "latencia_ms": 782.2
+      }
+    }
+  }
+]
