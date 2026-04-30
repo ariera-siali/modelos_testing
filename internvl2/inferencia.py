@@ -39,48 +39,39 @@ RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 # Prompts con contexto industrial mínimo para reducir falsos positivos
 PROMPTS = {
     "epi_casco": (
-        "Count ONLY hard hats or safety helmets worn on people's heads or visible in the scene. "
-        "Do NOT count caps, hair, or other headwear. "
+        "Detect all safety hard hats in this image. Count them and tell me the total number found. "
         'Reply only: {"casco": int}'
     ),
     "epi_chaleco": (
-        "Count ONLY high-visibility vests (bright yellow, orange or green reflective vests). "
-        "Do NOT count regular jackets, shirts or black clothing. "
+        "Check this image for safety vests. Count how many are and let me know the total."
         'Reply only: {"chaleco": int}'
     ),
     "epi_chaleco_negro": (
-        "Count ONLY black or very dark vests worn as workwear. "
-        "Do NOT count regular dark clothing or hi-vis vests. "
+        "Detect black utility work vests only. Exclude any jackets or long-sleeved outerwear. Count the total number."
         'Reply only: {"chaleco_negro": int}'
     ),
     "epi_cono": (
-        "Count ONLY orange or red traffic/safety cones on the ground. "
-        "Do NOT count other objects. "
+        "Check this image for cones. Count all of them and let me know the total number visible."
         'Reply only: {"cono": int}'
     ),
     "epi_gorra_protectora": (
-        "Count ONLY bump caps or protective hair nets worn by workers. "
-        "Do NOT count hard hats or regular caps. "
+        "Identify all safety bump cap (protective work cap). Count them and distinguish them from regular caps. Report the total number of people wearing this protective headgear."
         'Reply only: {"gorra_protectora": int}'
     ),
     "epi_mascarilla": (
-        "Count ONLY face masks, dust masks or respirators covering the mouth/nose. "
-        "Do NOT count other facial features. "
+        "Detect and count all safety masks or respirators in this image."
         'Reply only: {"mascarilla": int}'
     ),
     "epi_persona": (
-        "Count ALL people visible, even if partially cut off by the frame. "
-        "Count each distinct person only once. "
+        "Detect and count all people present in this image."
         'Reply only: {"persona": int}'
     ),
     "carretillas": (
-        "Count ONLY forklifts or pallet trucks. "
-        "Do NOT count cars, vans, or other vehicles without forks. "
+        "Detect and count all forklifts in this image. Provide the total number found."
         'Reply only: {"carretillas_detectadas": int}'
     ),
     "caidas": (
-        "Is any person lying on the ground, fallen, or in an abnormal horizontal posture? "
-        "Answer false if all people are standing or sitting normally. "
+        "Analyze the image for fall detection. Identify if any individual appears to be in the middle of a fall, collapsing, or lying on the ground due to an accident."
         'Reply only: {"persona_caida": bool}'
     ),
 }
